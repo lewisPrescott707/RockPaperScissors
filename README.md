@@ -1,9 +1,9 @@
 Hello my name is Norbert,
-I'm interested in becoming a QA Engineer.
-I’m currently learning Python and it's frameworks: django, pandas, selenium, pytest.
-I also have vasic knowledge about SQL, HTML, CSS and JS and Postman, Jira and I've used few different terminals and IDEs.
-You can reach me in the 3 ways:
-E-mail: wieczorek9@poczta.onet.pl
-Phone number: +48 511 206 787
-Linkedin profile: https://www.linkedin.com/in/norbert-wieczorek-315353220/
+/n I'm interested in becoming a QA Engineer.
+/n I’m currently learning Python and it's frameworks: django, pandas, selenium, pytest.
+/n I also have vasic knowledge about SQL, HTML, CSS and JS and Postman, Jira and I've used few different terminals and IDEs.
+/n You can reach me in the 3 ways:
+/n E-mail: wieczorek9@poczta.onet.pl
+/n Phone number: +48 511 206 787
+/n Linkedin profile: https://www.linkedin.com/in/norbert-wieczorek-315353220/
 
